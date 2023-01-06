@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T15:44:35.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="dhVJe_qZjZSx78rQq6Hq" type="github"><diagram id="IJL9Y93hj6aSOz85v9z3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-06T15:01:58.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="t9WKUBEfUerHgTG6Am46" type="github">
+  <diagram id="8uwN1Gl6R9wTN-T5_7u7" name="Page-1">
+    <mxGraphModel dx="2074" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ibhv_75tJqW2c6KeOulF-1" value="Ground" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4AFF2E;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ibhv_75tJqW2c6KeOulF-2" value="Player" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="295" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ibhv_75tJqW2c6KeOulF-3" value="Enemy" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF1008;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ibhv_75tJqW2c6KeOulF-4" value="Breakable" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFDD00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ibhv_75tJqW2c6KeOulF-5" value="Power-Up" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1921FF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ibhv_75tJqW2c6KeOulF-6" value="Moving Ground" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="350" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ibhv_75tJqW2c6KeOulF-7" value="Coin" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#7F00FF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ibhv_75tJqW2c6KeOulF-8" value="Goal" style="triangle;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="390" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ibhv_75tJqW2c6KeOulF-9" value="Checkpoint" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#00FFFF;size=20;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ibhv_75tJqW2c6KeOulF-10" value="Invisible" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="445" y="450" as="sourcePoint" />
+            <mxPoint x="495" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ibhv_75tJqW2c6KeOulF-11" value="0123456789&lt;br&gt;Time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
